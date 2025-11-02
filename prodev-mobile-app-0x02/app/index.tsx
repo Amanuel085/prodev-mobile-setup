@@ -1,3 +1,5 @@
+import { SafeAreaView, SafeAreaProvider,} from "react-native-safe-area-context";
+
 import {
   Text,
   View,
@@ -8,10 +10,7 @@ import {
   TouchableOpacity,
 } from "react-native";
 
-import {
-  SafeAreaView,
-  SafeAreaProvider,
-} from "react-native-safe-area-context";
+
 
 export default function Index() {
   return (
