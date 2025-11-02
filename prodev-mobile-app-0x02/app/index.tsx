@@ -7,6 +7,7 @@ import {
   Dimensions,
   TouchableOpacity,
 } from "react-native";
+
 import {
   SafeAreaView,
   SafeAreaProvider,
